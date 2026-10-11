@@ -3,12 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kittikun%20Chunhachotwanit&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bangkok&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Native+%26+Cross-platform+Mobile+Developer+(Android+%7C+iOS);Backend+%26+API+Engineer;Cloud+on+AWS+%E2%98%81%EF%B8%8F;Auth+%26+Security+Enthusiast;Building+things+end+to+end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Native+%26+Cross-platform+Mobile+Developer+(Android+%7C+iOS);Backend+%26+API+Engineer;Shipping+with+Docker+%26+CI%2FCD+%F0%9F%9A%80;Auth+%26+Security+Enthusiast;Building+things+end+to+end" alt="Typing SVG" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kit-chu&label=Profile%20views&color=00ADD8&style=for-the-badge" alt="Profile views" />
 
 </div>
 
