@@ -43,6 +43,8 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **🌐 Frontend**
 
@@ -122,6 +124,52 @@ flowchart LR
 | [⚙️ flowbot-api](https://github.com/kit-chu/flowbot-api) | Backend API for Flowbot | Go |
 | [🌐 flowbot-web](https://github.com/kit-chu/flowbot-web) | Web frontend for Flowbot | TypeScript |
 | [🥗 CaloriWise](https://github.com/kit-chu/CaloriWise) | Mobile app for calorie tracking | Kotlin |
+
+## 🧪 Demo Apps for Small Businesses
+
+Three small, working products, each a mobile app plus its own Go backend. They are portfolio demos, built end to end with the same stack: **Go (Gin) + PostgreSQL + Docker**, JWT with refresh tokens, and GitHub Actions CI. All live in [**kitchu-studio**](https://github.com/kitchu-studio).
+
+### 💈 Booking: appointment app for salons and barbershops
+
+Pick a service from the price list, book a time slot, and see your upcoming appointments.
+
+**Flutter** · Go · PostgreSQL · [App](https://github.com/kitchu-studio/booking-demo-app) · [Backend](https://github.com/kitchu-studio/booking-demo-backend)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kitchu-studio/booking-demo-app/main/docs/screenshots/01-login.png" width="120" alt="Login" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/booking-demo-app/main/docs/screenshots/02-services.png" width="120" alt="Services" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/booking-demo-app/main/docs/screenshots/03-booking.png" width="120" alt="Booking" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/booking-demo-app/main/docs/screenshots/04-my-bookings.png" width="120" alt="My bookings" />
+</p>
+
+### ☕ Order: ordering app for cafés with PromptPay QR
+
+Browse the menu with photos, build a cart, pay with a PromptPay QR, and let the shop work through the queue and upload product photos.
+
+**Flutter** · Go · PostgreSQL · PromptPay QR · image upload · [App](https://github.com/kitchu-studio/order-demo-app) · [Backend](https://github.com/kitchu-studio/order-demo-backend)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kitchu-studio/order-demo-app/main/docs/screenshots/01-menu.png" width="120" alt="Menu" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/order-demo-app/main/docs/screenshots/02-cart.png" width="120" alt="Cart" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/order-demo-app/main/docs/screenshots/03-receipt.png" width="120" alt="Receipt with QR" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/order-demo-app/main/docs/screenshots/04-shop.png" width="120" alt="Shop queue" />
+</p>
+
+### 🎟 Loyalty: points, rewards and an AI assistant
+
+Customers collect points with one-time codes from the cashier, redeem rewards for vouchers, and ask an AI assistant about opening hours, the menu and their own points. Staff issue codes, hand over vouchers and edit what the assistant knows.
+
+**React Native (Expo)** · TypeScript · Go · PostgreSQL · Claude API · [App](https://github.com/kitchu-studio/loyalty-demo-app) · [Backend](https://github.com/kitchu-studio/loyalty-demo-backend)
+
+<p>
+  <img src="https://raw.githubusercontent.com/kitchu-studio/loyalty-demo-app/main/docs/screenshots/01-login.png" width="120" alt="Login" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/loyalty-demo-app/main/docs/screenshots/02-points.png" width="120" alt="Points" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/loyalty-demo-app/main/docs/screenshots/03-rewards.png" width="120" alt="Rewards" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/loyalty-demo-app/main/docs/screenshots/04-assistant.png" width="120" alt="Assistant" />
+  <img src="https://raw.githubusercontent.com/kitchu-studio/loyalty-demo-app/main/docs/screenshots/05-staff.png" width="120" alt="Staff" />
+</p>
+
+Looking for something like this for your shop or product? [Get in touch](#-get-in-touch).
 
 ## 🐍 Contribution Snake
 
